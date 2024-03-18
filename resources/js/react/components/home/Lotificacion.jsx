@@ -146,11 +146,11 @@ export default function Lotificacion() {
                             title={"Casa club"}
                         />
                         <ListLoti
-                            icon={"img/lotificacion/icons/8.png"}
+                            icon={"img/lotificacion/icons/7.png"}
                             title={"Parque infantil"}
                         />
                         <ListLoti
-                            icon={"img/lotificacion/icons/7.png"}
+                            icon={"img/lotificacion/icons/8.png"}
                             title={"Circuito de Jogging y Ciclovía"}
                         />
                     </ul>
